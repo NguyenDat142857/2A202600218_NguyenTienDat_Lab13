@@ -4,12 +4,12 @@
 
 ## 1. Team Metadata
 
-* [GROUP_NAME]: AI-Observability-DatNT
+* [GROUP_NAME]: C16
 * [REPO_URL]: https://github.com/NguyenDat142857/Lab13-Observability
 * [MEMBERS]:   - Member A: Nguyen Tien Dat | Role: Core Logging, Correlation & PII Security
 
-  * Member B: Nguyen Tien Dat | Role: Tracing Platform, LLM Observer & Load Testing
-  * Member C: Nguyen Tien Dat | Role: Alerts, Metrics Dashboard & Demo Lead
+  * Member B:  | Role: Tracing Platform, LLM Observer & Load Testing
+  * Member C:  | Role: Alerts, Metrics Dashboard & Demo Lead
 
 ---
 
