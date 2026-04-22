@@ -2,14 +2,13 @@
 
 > **Instruction**: Fill in all sections below. This report is designed to be parsed by an automated grading assistant. Ensure all tags (e.g., `[GROUP_NAME]`) are preserved.
 
-## 1. Team Metadata
 
+## 1. Team Metadata
 * [GROUP_NAME]: C16
 * [REPO_URL]: https://github.com/NguyenDat142857/Lab13-Observability
 * [MEMBERS]:   - Member A: Nguyen Tien Dat | Role: Core Logging, Correlation & PII Security
   * Member B: Ngô Văn Long  | Role: Tracing Platform, LLM Observer & Load Testing
   * Member C: Phạm Đan Kha  | Role: Alerts, Metrics Dashboard & Demo Lead
-
 ---
 
 ## 2. Group Performance (Auto-Verified)
@@ -42,9 +41,8 @@ Additionally, token usage and cost are fully tracked within each span using the 
 
 ### 3.2 Dashboard & SLOs
 
-* [DASHBOARD_6_PANELS_SCREENSHOT]: <img width="470" height="355" alt="{D1F7CD09-6396-41CF-88CA-F99157024402}" src="https://github.com/user-attachments/assets/cf5ab474-2d9d-4434-b6b6-bb397237dde1" />
 
-
+* [DASHBOARD_6_PANELS_SCREENSHOT]: ![alt text]({5001767F-4A0E-4405-B460-63A4611810D3}.png)
 
 * [SLO_TABLE]: | SLI | Target | Window | Current Value |
   |---|---:|---|---:|
