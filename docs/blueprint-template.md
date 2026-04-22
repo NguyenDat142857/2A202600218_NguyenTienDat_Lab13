@@ -42,7 +42,8 @@ Additionally, token usage and cost are fully tracked within each span using the 
 
 ### 3.2 Dashboard & SLOs
 
-* [DASHBOARD_6_PANELS_SCREENSHOT]: ![Dashboard](./assets/dashboard.png)
+* [DASHBOARD_6_PANELS_SCREENSHOT]: <img width="471" height="350" alt="{47F16299-0BA5-4306-9AE8-D183F11F31B5}" src="https://github.com/user-attachments/assets/9f55bda8-8146-4af3-879b-65386d7dd0b4" />
+
 
 * [SLO_TABLE]: | SLI | Target | Window | Current Value |
   |---|---:|---|---:|
