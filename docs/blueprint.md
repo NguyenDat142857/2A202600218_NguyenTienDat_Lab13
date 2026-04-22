@@ -32,7 +32,8 @@
 - [TRACE_WATERFALL_EXPLANATION]: One interesting span is the `retrieve` function. In the waterfall, it accounts for nearly 85% of total latency during the `rag_slow` incident, clearly isolating the bottleneck to our vector store mock logic.
 
 ### 3.2 Dashboard & SLOs
-- [DASHBOARD_6_PANELS_SCREENSHOT]: [../docs/images/dashboard.jpg]
+- [DASHBOARD_6_PANELS_SCREENSHOT]: <img width="471" height="350" alt="{47F16299-0BA5-4306-9AE8-D183F11F31B5}" src="https://github.com/user-attachments/assets/ae2ba781-728b-4c7d-9741-abf4d5fde374" />
+
 - [SLO_TABLE]:
 | SLI | Target | Window | Current Value |
 |---|---:|---|---:|
