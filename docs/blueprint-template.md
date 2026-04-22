@@ -7,7 +7,6 @@
 * [GROUP_NAME]: C16
 * [REPO_URL]: https://github.com/NguyenDat142857/Lab13-Observability
 * [MEMBERS]:   - Member A: Nguyen Tien Dat | Role: Core Logging, Correlation & PII Security
-
   * Member B: Ngô Văn Long  | Role: Tracing Platform, LLM Observer & Load Testing
   * Member C: Phạm Đan Kha  | Role: Alerts, Metrics Dashboard & Demo Lead
 
